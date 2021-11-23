@@ -1,4 +1,4 @@
-# NFT preview card component - [Live]()
+# NFT preview card component - [Live](https://yhertekin.github.io/NFT-preview-card-component/)
 
 ## Desktop
 
